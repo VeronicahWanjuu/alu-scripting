@@ -1,1 +1,2 @@
-# alu-scripting
+# alu-scriptinng
+READ ME FOR THIS PROJECT
